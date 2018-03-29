@@ -18,3 +18,8 @@ button{
 button:hover{
     transform: scale(1.2);
 }
+h1{
+    color:#4546;
+    text-align: center;
+    
+}
