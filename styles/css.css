@@ -17,6 +17,8 @@ button{
 }
 button:hover{
     transform: scale(1.2);
+    color:#333;
+    background-color: azure;
 }
 h1{
     color:#4546;
