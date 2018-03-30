@@ -21,7 +21,6 @@ button:hover{
     background-color: azure;
 }
 h1{
-    color:#4546;
+    color:rgba(13, 241, 13, 0.4);
     text-align: center;
-    
 }
